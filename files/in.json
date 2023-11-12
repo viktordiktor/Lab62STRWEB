@@ -1,0 +1,16 @@
+{
+    "id": "2",
+    "surname": "Smith",
+    "forename": "John",
+    "patronymic": "Doe",
+    "dob": "1990-05-15",
+    "sex": 1,
+    "passportSeries": "AB",
+    "passportNumber": "123456",
+    "city": "New York",
+    "address": "123 Main St",
+    "phoneHome": "555-1234",
+    "phoneMobile": "555-5678",
+    "citizenship": "USA",
+    "dutyBound": 0
+}

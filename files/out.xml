@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personXML>
+    <id>1</id>
+    <surname>Smith</surname>
+    <forename>John</forename>
+    <patronymic>Doe</patronymic>
+    <dob>1990-05-15</dob>
+    <sex>1</sex>
+    <passportSeries>AB</passportSeries>
+    <passportNumber>123456</passportNumber>
+    <city>New York</city>
+    <address>123 Main St</address>
+    <phoneHome>555-1234</phoneHome>
+    <phoneMobile>555-5678</phoneMobile>
+    <citizenship>USA</citizenship>
+    <dutyBound>0</dutyBound>
+</personXML>
